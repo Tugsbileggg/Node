@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Ehlel",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.11.0",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^13.4.2"
+  }
+}
